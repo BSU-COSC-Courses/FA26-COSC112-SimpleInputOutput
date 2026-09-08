@@ -624,25 +624,6 @@ Your Repository
 Your Repository
 ```
 
-### Incorrect
-
-```text
-Instructor Repository
-        ↓
-      CLONE
-        ↓
-    IntelliJ
-        ↓
-      CODE
-        ↓
-      PUSH
-        ↓
-Instructor Repository
-```
-
-The second workflow can cause students to interfere with one another if they have permission to push to the same repository.
-
----
 
 # Submission Checklist
 
@@ -701,26 +682,5 @@ git push
 
 ---
 
-# Final Workflow
-
-For this assignment, remember:
-
-```text
-        FORK
-          ↓
-       CLONE
-          ↓
-      INTELLIJ
-          ↓
-        CODE
-          ↓
-        TEST
-          ↓
-       COMMIT
-          ↓
-        PUSH
-          ↓
-    VERIFY ON GITHUB
-```
 
 **Your final code should be located in your own GitHub repository.**
