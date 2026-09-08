@@ -3,10 +3,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+//import classes
+
 /**
  *
- * @author theia
+ * @author Instructor Base code
  */
 public class SimpleInputOutput {
-    
+
+    public static void main(String[] args) {
+        //variable declaration
+        
+        //executable statements
+        
+    }
+
 }
